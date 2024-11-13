@@ -1,0 +1,3 @@
+Hello, this is a sample document.
+It contains some text for comparison.
+The document is simple and easy to compare.
